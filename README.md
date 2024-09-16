@@ -12,7 +12,7 @@ Inspired by the Minecraft mod "MineColonies," this game focuses on building and 
 - Resource Gathering
 - Combat Mechanics
 - Exploration
-- Realistic Art Style
+- Semi Realistic Art Style
 
 ### Should Have:
 - Advanced Crafting and Production Chains
