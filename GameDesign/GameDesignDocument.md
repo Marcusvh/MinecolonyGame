@@ -8,5 +8,8 @@
 
 ## Requirements for building tier upgrades 
 
-[^1]: blah blah 
+[^1]: Townhall tier 2:
 something about the upgrade requirements of townhall tier 2
+- Population of 50
+- Explored 1 dungeon
+- Drank a glass of "holy water"
