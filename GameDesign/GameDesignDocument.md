@@ -89,11 +89,12 @@ The **Watchtower** provides surveillance over the colony, enhancing security. It
 
 ### Table of Buildings and their tier upgrades
 
-| Name      | Description                                                | Cost                                                           | Size (Length, Width, Height) | Tier | Requirements |
-|-----------|------------------------------------------------------------|----------------------------------------------------------------|------------------------------|------|--------------|--------------------------|
-| Townhall  | The center of the colony. General management will be here.  | FREE                                                           | 16x8x14                      | 1    | FREE          | [About Townhall](#townhall) |
+| Name      | Description                                                | Cost                                                           | Size (Length, Width, Height) | Tier | Requirements                                            | More Info              |
+|-----------|------------------------------------------------------------|----------------------------------------------------------------|------------------------------|------|-------------------------------------------------------|------------------------|
+| Townhall  | The center of the colony. General management will be here.  | FREE                                                           | 16x8x14                      | 1    | FREE                                                  | [About Townhall](#townhall) |
 | Townhall  | The center of the colony. General management will be here.  | 100 Wood, 250 Stone, 50 Coins, 20 Iron                         | 22x12x18                     | 2    | [Townhall Tier 2 Requirements](#townhall-tier-2-requirements) | [About Townhall](#townhall) |
-| Townhall  | The center of the colony. General management will be here.  | 350 Wood, 1000 Stone, 200 Coins, 200 Iron, 200 Fabric, 50 Gold | 28x16x22                     | 3    | [Townhall Tier 3 Requirements](#townhall-tier-2-requirements) | [About Townhall](#townhall) |
+| Townhall  | The center of the colony. General management will be here.  | 350 Wood, 1000 Stone, 200 Coins, 200 Iron, 200 Fabric, 50 Gold | 28x16x22                     | 3    | [Townhall Tier 3 Requirements](#townhall-tier-3-requirements) | [About Townhall](#townhall) |
+
 
 ### Requirements for building tier upgrades 
 
