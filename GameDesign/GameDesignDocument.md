@@ -6,7 +6,6 @@
   - [Table of contents](#table-of-contents)
   - [Building](#building)
     - [All Buildings Descriptions](#all-buildings-descriptions)
-- [Building Descriptions and Functionality](#building-descriptions-and-functionality)
       - [Townhall](#townhall)
       - [Farm](#farm)
       - [Builder's Hub](#builders-hub)
@@ -34,8 +33,6 @@
 ## Building
 
 ### All Buildings Descriptions
-
-# Building Descriptions and Functionality
 
 #### Townhall
 The **Townhall** serves as the central hub for managing the colony. It is where the player can oversee colony activities, assign tasks, and monitor the overall progress of their settlement.
