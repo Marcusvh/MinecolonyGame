@@ -25,7 +25,24 @@
       - [Watchtower](#watchtower)
     - [Table of Buildings and their tier upgrades](#table-of-buildings-and-their-tier-upgrades)
     - [Requirements for building tier upgrades](#requirements-for-building-tier-upgrades)
-      - [Townhall tier 2 Requirements:](#townhall-tier-2-requirements)
+      - [Townhall Tier 2 Requirements:](#townhall-tier-2-requirements)
+      - [Farm Tier 2 Requirements:](#farm-tier-2-requirements)
+      - [Builder's Hub Tier 2 Requirements:](#builders-hub-tier-2-requirements)
+      - [Barracks Tier 2 Requirements:](#barracks-tier-2-requirements)
+      - [Bakery Tier 2 Requirements:](#bakery-tier-2-requirements)
+      - [Fishing Dock Tier 2 Requirements:](#fishing-dock-tier-2-requirements)
+      - [Healing Center Tier 2 Requirements:](#healing-center-tier-2-requirements)
+      - [Logistics Hub Tier 2 Requirements:](#logistics-hub-tier-2-requirements)
+      - [Fabric Artisan Tier 2 Requirements:](#fabric-artisan-tier-2-requirements)
+      - [Forester's Hub Tier 2 Requirements:](#foresters-hub-tier-2-requirements)
+      - [Miner's Hub Tier 2 Requirements:](#miners-hub-tier-2-requirements)
+      - [Warehouse Tier 2 Requirements:](#warehouse-tier-2-requirements)
+      - [Blacksmith's Forge Tier 2 Requirements:](#blacksmiths-forge-tier-2-requirements)
+      - [Tavern Tier 2 Requirements:](#tavern-tier-2-requirements)
+      - [School Tier 2 Requirements:](#school-tier-2-requirements)
+      - [Market Tier 2 Requirements:](#market-tier-2-requirements)
+      - [Watchtower Tier 2 Requirements:](#watchtower-tier-2-requirements)
+      - [House Tier 2 Requirements:](#house-tier-2-requirements)
       - [Townhall tier 3 Requirements:](#townhall-tier-3-requirements)
   - [NPC](#npc)
     - [Table of NPCs](#table-of-npcs)
@@ -98,15 +115,172 @@ The **Watchtower** provides surveillance over the colony, enhancing security. It
 
 ### Requirements for building tier upgrades 
 
-#### Townhall tier 2 Requirements:
-something about the upgrade requirements of townhall tier 2
-- Population of 50
+#### Townhall Tier 2 Requirements:
+- Tier 1 Townhall
+- Population of 20
 - Explored 1 dungeon
-- Drink a glass of "holy water"
-- 
+- Completed 1 NPC quest
+- Reached chapter 2 in main questline
+- At least tier 1 of the following buildings: 
+  - Warehouse
+  - Builder's Hub
+  - Miner's Hub
+  - Forester's Hub
+  - Fishing Dock or Bakery and Farm
+  - Houses for all of the population
+
+#### Farm Tier 2 Requirements:
+- Tier 1 Farm
+- Planted at least 3 different crop types
+- Population of 15
+- 2 Builders available
+- At least tier 1 of:
+  - Forester's Hub
+  - Warehouse
+  - House for the farmer
+
+#### Builder's Hub Tier 2 Requirements:
+- Tier 1 Builder's Hub
+- Constructed at least 3 buildings
+- Population of 15
+- 100 wood in the Warehouse
+- At least tier 1 of:
+  - Warehouse
+  - Townhall
+
+#### Barracks Tier 2 Requirements:
+- Tier 1 Barracks
+- Hired 5 guards
+- Completed a defense quest
+- Population of 25
+- At least tier 1 of:
+  - Watchtower
+  - Warehouse
+  - Blacksmith's Forge
+
+#### Bakery Tier 2 Requirements:
+- Tier 1 Bakery
+- Produced 100 bread
+- Population of 15
+- At least tier 1 of:
+  - Farm
+  - Warehouse
+  - Houses for workers
+
+#### Fishing Dock Tier 2 Requirements:
+- Tier 1 Fishing Dock
+- Caught 50 fish
+- Population of 10
+- Completed a fishing-related quest
+- At least tier 1 of:
+  - Warehouse
+  - Forester's Hub
+
+#### Healing Center Tier 2 Requirements:
+- Tier 1 Healing Center
+- Healed 10 injured colonists
+- Population of 20
+- At least tier 1 of:
+  - Warehouse
+  - Bakery or Farm
+
+#### Logistics Hub Tier 2 Requirements:
+- Tier 1 Logistics Hub
+- Transported resources 50 times
+- Population of 15
+- At least tier 1 of:
+  - Warehouse
+  - Townhall
+
+#### Fabric Artisan Tier 2 Requirements:
+- Tier 1 Fabric Artisan
+- Produced 100 fabric items
+- Population of 15
+- At least tier 1 of:
+  - Forester's Hub
+  - Warehouse
+  - Farm
+
+#### Forester's Hub Tier 2 Requirements:
+- Tier 1 Forester's Hub
+- Harvested 100 wood
+- Population of 10
+- At least tier 1 of:
+  - Warehouse
+  - Builder's Hub
+
+#### Miner's Hub Tier 2 Requirements:
+- Tier 1 Miner's Hub
+- Mined 100 stone or ore
+- Population of 10
+- At least tier 1 of:
+  - Warehouse
+  - Blacksmith's Forge
+
+#### Warehouse Tier 2 Requirements:
+- Tier 1 Warehouse
+- Stored 500 resources
+- Population of 15
+- At least tier 1 of:
+  - Builder's Hub
+  - Logistics Hub
+
+#### Blacksmith's Forge Tier 2 Requirements:
+- Tier 1 Blacksmith's Forge
+- Produced 50 tools or weapons
+- Population of 15
+- At least tier 1 of:
+  - Miner's Hub
+  - Warehouse
+  - Barracks
+
+#### Tavern Tier 2 Requirements:
+- Tier 1 Tavern
+- Population of 25
+- Served 50 drinks to colonists
+- Completed a social quest
+- At least tier 1 of:
+  - Warehouse
+  - Houses for the population
+
+#### School Tier 2 Requirements:
+- Tier 1 School
+- Educated 5 children
+- Population of 20
+- Completed a knowledge-related quest
+- At least tier 1 of:
+  - Townhall
+  - Warehouse
+
+#### Market Tier 2 Requirements:
+- Tier 1 Market
+- Conducted 20 trade transactions
+- Population of 25
+- Reached chapter 2 in the main questline
+- At least tier 1 of:
+  - Warehouse
+  - Townhall
+
+#### Watchtower Tier 2 Requirements:
+- Tier 1 Watchtower
+- Successfully defended the colony from 2 attacks
+- Population of 15
+- At least tier 1 of:
+  - Barracks
+  - Blacksmith's Forge
+
+#### House Tier 2 Requirements:
+- Tier 1 House
+- Population of 10
+- Upgraded the Townhall to tier 2
+- At least tier 1 of:
+  - Warehouse
+  - Builder's Hub
+
 #### Townhall tier 3 Requirements:
 something about the upgrade requirements of townhall tier 3
-- Population of 500
+- Tier 2 Townhall
+- Population of 50
 - Explored 10 dungeon
 - Drink 2 glass of "holy water"
 
